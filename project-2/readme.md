@@ -1,3 +1,8 @@
+<h1> Instructable Readme Part 1 <h1>
+
+<h2> Garrett Gredell <h2>
+
+
 This project is pretty difficult!
 Spent a lot of time trying to memorize the tags
 Had (still having) a few issues with the page that I need help

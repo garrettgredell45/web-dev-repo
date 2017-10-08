@@ -13,3 +13,7 @@ in the middle and now its actually a list
 Feels good though to be making progress with coding.
 Managed to get all the source code thus far done in about 3 hours!!!
 GO ME!
+
+Spent a lot of time working with forms and tables
+Had some troubles getting the table styling and I'm not sure how to really
+incorporate the submit buttons. I'd like to make a link but I'm not sure how

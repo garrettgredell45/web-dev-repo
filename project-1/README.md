@@ -1,19 +1,35 @@
-<html>
-   <body>
-      <h1>Garrett Gredell<h1>
-        <h2>Move Along<h2>
-          <h3>by the All American Rejects<h3>
-            <hr>
-            <a href="DESTINATION URL"><img src="https://images-na.ssl-images-amazon.com/images/I/51oktBxwshL.jpg" /></a>
+# My First README.md
+new text line
+another new text line
 
-              <p>
-                Speak to me
-                When all you got to keep is strong
-                Move along, move along like I know you do
-                And even when your hope is gone
-                Move along, move along just to make it through
-                Move along
-                Move along
-              </p>
-    </body>
-</html>
+
+## Garrett Gredell
+
+**bold text hopefully**
+
+*slightly slanted text aka Italics (hopefully)*
+
+
+Things I like:
+1. running
+2. playing music
+
+
+Things I don't like:
+
+- Tuna
+
+- coding without wearing matrix clothing
+
+`what is a code block?`
+did I do it right?
+
+
+---
+here is a link to something cool I guess
+
+[hope you like english bulldogs](https://www.youtube.com/watch?v=nyZk6CGdfhM&t=383s)
+
+![image](./images/screenshot_of_directory.jpg)
+
+This was a tough intro but I feel like I'm getting better at website design.

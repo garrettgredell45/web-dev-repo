@@ -1,35 +1,19 @@
-# My First README.md
-new text line
-another new text line
+<html>
+   <body>
+      <h1>Garrett Gredell<h1>
+        <h2>Move Along<h2>
+          <h3>by the All American Rejects<h3>
+            <hr>
+            <a href="DESTINATION URL"><img src="https://images-na.ssl-images-amazon.com/images/I/51oktBxwshL.jpg" /></a>
 
-
-## Garrett Gredell
-
-**bold text hopefully**
-
-*slightly slanted text aka Italics (hopefully)*
-
-
-Things I like:
-1. not coding
-2. playing outside
-
-
-Things I don't like:
-
-- Tuna
-
-- coding without wearing matrix clothing
-
-`wtf is a code block?`
-did I do it right??
-
-
----
-here is a link to something cool I guess
-
-[hope you like english bulldogs](https://www.youtube.com/watch?v=nyZk6CGdfhM&t=383s)
-
-![image](./images/screenshot_of_directory.jpg)
-
-Honestly this has been one of the most difficult first assignments for any class. Probably because I have no experience with coding. Its gonna be a journey, but I like journeys... usually.
+              <p>
+                Speak to me
+                When all you got to keep is strong
+                Move along, move along like I know you do
+                And even when your hope is gone
+                Move along, move along just to make it through
+                Move along
+                Move along
+              </p>
+    </body>
+</html>

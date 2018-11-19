@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp1878725.png");
+    background-repeat: repeat;
+    background-color: powderblue;
+    text-align: center !important;
+}
+h1 {
+    color: yellow;
+    text-align: center !important;
+}
+p {
+    color: salmon;
+}

@@ -4,4 +4,4 @@
 
   here is a screenshot of my desktop_screenshot
 
-<img src="/images/desktop_screenshot.jpg" width="1000" height="500" />
+<img src="./images/image1.jpg"/>

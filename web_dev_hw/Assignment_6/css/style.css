@@ -1,3 +1,11 @@
+div {
+  padding: 2%
+  border: 8px solid salmon
+  font-size: 40px;
+}
+.box-two p {
+    background-color: white
+}
 body {
     background-image: url("https://wallpapercave.com/wp/wp1878725.png");
     background-repeat: repeat;
@@ -5,9 +13,11 @@ body {
     text-align: center !important;
 }
 h1 {
-    color: yellow;
+    color: blue;
     text-align: center !important;
+    background-color: white
 }
 p {
     color: salmon;
 }
+/*here is a comment to pat myself on the back for getting this assignment done*/

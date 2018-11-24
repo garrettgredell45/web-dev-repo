@@ -1,0 +1,53 @@
+.p1 {
+   font-size: 50px;
+   line-height: 2;
+   font-family: Friday13;
+   text-align: center;
+   background-image: url("https://6e80timjxr-flywheel.netdna-ssl.com/wp-content/uploads/2018/11/2000px-Flag_of_Afghanistan_1880%E2%80%931901.svg_.png");
+   background-repeat: repeat;
+   letter-spacing: 1px;
+   color: white;
+}
+.p2 {
+   line-height: normal;
+   font-family: 'Montserrat', sans-serif;
+   text-align: center;
+   color: black;
+}
+.p3 {
+   font-family: 'Oswald', sans-serif;
+   color: red;
+   font-size: 35px;
+   text-align: left;
+   padding-left: 500px;
+   text-align: left;
+}
+.p4 {
+  line-height: normal;
+  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  color: black;
+}
+.p5 {
+  line-height: normal;
+  font-size: 13px;
+  font-family: 'Merriweather', serif;
+  text-align: left;
+  color: black;
+  padding-right: 580px;
+}
+a:link {
+   color: white;
+   text-decoration: none;
+}
+
+a:visited {
+   color: blue;
+   text-decoration: none;
+}
+
+a:hover {
+   color: red;
+   font-style: italic;
+}

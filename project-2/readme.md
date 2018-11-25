@@ -1,8 +1,4 @@
-<h1> Instructable Readme Part 1 <h1>
-
-<h1> Garrett Gredell <h1>
-
-
-<h2>Instructable<h2>
-<h3>Garrett Gredell<h3>
-This project was initially a little difficult for me, but after using the various tags several times it became much easier and more fluid. I had a hard time figuring out how to make the fonts not uniform in size though. Feels good though to be making progress with coding.
+<h1>Project 2 Readme</h1>
+<h3>Garrett Gredell</h3>
+<p>This project was initially a little difficult for me, but after using the various tags several times it became much easier and more fluid. I had a hard time figuring out how to make the fonts not uniform in size though. Feels good though to be making progress with coding.</p>
+<img src="./images/screenshot.jpg">

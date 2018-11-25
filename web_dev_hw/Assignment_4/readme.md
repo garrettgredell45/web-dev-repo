@@ -9,4 +9,4 @@
 <h2>Work Cycle:</h2>
 <p>I spent most of my time on this project trying to organize how I wanted to convey the information that would be in the forms portion of the page. There were seemingly quite a few ways to utilize all the form options to create a cohesive page. I used inspiration from actual camp registration sites (for layout) and tried to implement their ideas into this project. It definitely helped to have some sort of organized idea of what I wanted and likely saved me some time in the long run.</p>
 
-<img src="./images/screenshot.jpg" width="1000" height="500" />
+<img src="./images/kamp.jpg" width="1000" height="500" />

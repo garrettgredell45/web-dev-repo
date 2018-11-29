@@ -1,5 +1,5 @@
 .container {
-  background: #000 url(file:///C:/Users/Garrett/Desktop/gurt.jpg);
+  background: #000 url(../images/gurt.jpg);
   color: #fff;
   height: 1350px;
   width: 100%;
@@ -7,6 +7,7 @@
   justify-content: center;
   align-items: center;
   position: relative;
+  background-repeat: no-repeat;
 }
 .color-overlay {
   width: 100%;
@@ -63,13 +64,4 @@ h1 {
 .insta p:hover{
    color: green;
    font-style: italic;
-}
-.parallelogram {
-  width: 700px;
-	height: 1350px;
-	transform: skew(5deg);
-	background: black;
-  position: absolute;
-  z-index: 2;
-  right: -150px;
 }
